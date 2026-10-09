@@ -1,0 +1,57 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 1080 >>
+stream
+BT
+/F1 16 Tf
+72 760 Td
+(Kasanga Market Dues Revenue Leakage Detector) Tj
+0 -24 Td
+/F1 11 Tf
+(1. Introduction) Tj
+0 -18 Td
+(Local government market dues are often lost because of missing records, unpaid balances, duplicate) Tj
+0 -15 Td
+(payments, and unregistered traders. This project helps track trader dues and detect leakage.) Tj
+0 -24 Td
+(2. Problem Statement) Tj
+0 -18 Td
+(Market officers need a simple way to record dues, track payments, and identify missing revenue.) Tj
+0 -24 Td
+(3. Objectives) Tj
+0 -18 Td
+(Track dues, detect unpaid balances, compare expected revenue with collected revenue, and improve) Tj
+0 -15 Td
+(accountability in Kasanga Market.) Tj
+0 -24 Td
+(4. Business Value) Tj
+0 -18 Td
+(The system reduces revenue loss and creates a strong basis for local government financial control.) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 6
+0000000000 65535 f
+0000000010 00000 n
+0000000062 00000 n
+0000000131 00000 n
+0000000441 00000 n
+0000000573 00000 n
+trailer
+<< /Root 1 0 R /Size 6 >>
+startxref
+879
+%%EOF
